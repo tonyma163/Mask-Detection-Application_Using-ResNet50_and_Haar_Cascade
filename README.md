@@ -1,6 +1,8 @@
 # mask_detection_application
 Author: Ma Man To Tony
 
+It is my school project LMAO
+
 Using colab to build a mask detection application.
 
 Using ResNet50 and Haar Cascade
@@ -17,6 +19,8 @@ Limitations:
 1. It only detect one face in the photo.
 2. The Haar Cascade is not very accurate
 3. The ResNet50 model cannot classify the human are wearing mask wrongly because the sample is not enough
+
+(More introduction of the application is in the ppt)
 
 The colab notebook link:
 https://colab.research.google.com/drive/112nIn1ieaHePZDIxPOFesAZcZwTDY5wx?usp=sharing
