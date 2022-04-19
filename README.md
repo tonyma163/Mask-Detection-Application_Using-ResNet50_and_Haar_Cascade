@@ -1,4 +1,4 @@
-# mask_detection_application
+# Mask Detection Application (Using ResNet50 & Haar Cascade)
 Author: Ma Man To Tony
 
 It is my school project LMAO
